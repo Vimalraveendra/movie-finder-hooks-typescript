@@ -1,0 +1,18 @@
+.title-container {
+  padding: 0.5rem;
+}
+
+.title-container input {
+  padding: 10px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: none;
+  text-transform: capitalize;
+}
+
+.title-container button {
+  padding: 10px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: none;
+}
