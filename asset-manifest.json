@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie-finder-hooks-typescript/static/css/main.8e5e91e8.chunk.css",
+    "main.js": "/movie-finder-hooks-typescript/static/js/main.d3f46d8b.chunk.js",
+    "main.js.map": "/movie-finder-hooks-typescript/static/js/main.d3f46d8b.chunk.js.map",
+    "runtime-main.js": "/movie-finder-hooks-typescript/static/js/runtime-main.c8fecdd9.js",
+    "runtime-main.js.map": "/movie-finder-hooks-typescript/static/js/runtime-main.c8fecdd9.js.map",
+    "static/js/2.75f0ef23.chunk.js": "/movie-finder-hooks-typescript/static/js/2.75f0ef23.chunk.js",
+    "static/js/2.75f0ef23.chunk.js.map": "/movie-finder-hooks-typescript/static/js/2.75f0ef23.chunk.js.map",
+    "static/js/3.537f640b.chunk.js": "/movie-finder-hooks-typescript/static/js/3.537f640b.chunk.js",
+    "static/js/3.537f640b.chunk.js.map": "/movie-finder-hooks-typescript/static/js/3.537f640b.chunk.js.map",
+    "index.html": "/movie-finder-hooks-typescript/index.html",
+    "static/css/main.8e5e91e8.chunk.css.map": "/movie-finder-hooks-typescript/static/css/main.8e5e91e8.chunk.css.map",
+    "static/js/2.75f0ef23.chunk.js.LICENSE.txt": "/movie-finder-hooks-typescript/static/js/2.75f0ef23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8fecdd9.js",
+    "static/js/2.75f0ef23.chunk.js",
+    "static/css/main.8e5e91e8.chunk.css",
+    "static/js/main.d3f46d8b.chunk.js"
+  ]
+}
